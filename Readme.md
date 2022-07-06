@@ -14,4 +14,3 @@ That's all !
 
 ## Feel free to send me any suggestion
 at https://www.linkedin.com/in/davidgrignon/
-# PathLoader
