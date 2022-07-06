@@ -5,7 +5,7 @@ This class help you to add folders to your path
 
 ## Getting Started
 
-Edit PathLoaderAssets.php and add the folder you need in the constant array PATH
+Edit Assets/PathLoaderAssets.php and add the folder you need in the constant array PATH
 
 example : ```CONST PATH = ['Controller', '/public/views'];```
 
